@@ -5,4 +5,5 @@
 * [Activity 3 Source Code](q1/zodiacPotassiumAngangan.py)
 * [Activity 1: The RPG Hero Documentation](q1/TheRPGHeroAngangan.md)
 * [Activity 1: Source Code](q1/TheRPGHeroAngangan.py)
+* [FA Activity: The RPG Hero Class Diagram](q1/TheRPGHeroClassDiagram.png)
 
