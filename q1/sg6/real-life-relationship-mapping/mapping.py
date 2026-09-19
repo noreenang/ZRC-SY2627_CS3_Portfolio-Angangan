@@ -11,7 +11,7 @@ class Course:
     def __init__(self, course_code: str, course_name: str):
         self.course_code = course_code
         self.course_name = course_name
-        self.students = []  # List to store Student objects (1-to-many association)
+        self.students = []  
 
     def add_student(self, student: Student) -> None:
         """Appends a Student object to the course's student list."""
