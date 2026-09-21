@@ -14,12 +14,10 @@ class Course:
         self.students = []  
 
     def add_student(self, student: Student) -> None:
-        """Appends a Student object to the course's student list."""
         self.students.append(student)
         print(f"Added {student.name} to {self.course_code}.")
 
     def display_enrolled_students(self) -> None:
-        """Displays all students currently in the course."""
         print(f"\n--- Enrolled Students in {self.course_code}: {self.course_name} ---")
         if not self.students:
             print("No students enrolled yet.")
@@ -33,8 +31,8 @@ if __name__ == "__main__":
  
     cs101 = Course("CS101", "Introduction to Computer Science")
 
-    student1 = Student("S101", "Alice Smith")
-    student2 = Student("S102", "Bob Jones")
+    student1 = Student("S101", "Alice Smithe")
+    student2 = Student("S102", "Bob Jonas")
 
     cs101.add_student(student1)
     cs101.add_student(student2)
