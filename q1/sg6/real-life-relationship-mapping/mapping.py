@@ -3,7 +3,7 @@ class Student:
         self.student_id = student_id
         self.name = name
 
-    def __str__(self) -> str:
+    def __str__(self):
         return f"{self.name} (ID: {self.student_id})"
 
 
@@ -13,11 +13,11 @@ class Course:
         self.course_name = course_name
         self.students = []  
 
-    def add_student(self, student: Student) -> None:
+    def add_student(self, student: Student):
         self.students.append(student)
         print(f"Added {student.name} to {self.course_code}.")
 
-    def display_enrolled_students(self) -> None:
+    def display_enrolled_students(self):
         print(f"\n--- Enrolled Students in {self.course_code}: {self.course_name} ---")
         if not self.students:
             print("No students enrolled yet.")
