@@ -7,5 +7,5 @@
     * [FA Activity: Source Code](q1/TheRPGHeroAngangan.py)
     * [FA Activity: The RPG Hero Class Diagram](q1/TheRPGHeroClassDiagram.png)
 * [SG6: Real Life Relationship Mapping Code](q1/sg6/real-life-relationship-mapping/mapping.py)
-      * [SG6: Real Life Relationship Mapping Class Diagram](q1/sg6/real-life-relationship-mapping/course_student_uml.png)
+    * [SG6: Real Life Relationship Mapping Class Diagram](q1/sg6/real-life-relationship-mapping/course_student_uml.png)
 
