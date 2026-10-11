@@ -1,11 +1,27 @@
 # ZRC-SY2627_CS3_Portfolio_Angangan
 
-* [Activity 1: CT Exercise](q1/ctskills/ctskillsPotassiumAnganganLuceroRoda.md)
-* [Activity 3: Chinese Zodiac Sign](q1/zodiac/zodiacPotassiumAngangan.md)
-    * [Activity 3 Source Code](q1/zodiac/zodiacPotassiumAngangan.py)
-* [FA Activity: The RPG Hero Documentation](q1/theRPGHero/TheRPGHeroAngangan.md)
-    * [FA Activity: Source Code](q1/theRPGHero/TheRPGHeroAngangan.py)
-    * [FA Activity: The RPG Hero Class Diagram](q1/theRPGHero/TheRPGHeroClassDiagram.png)
-* [SG6: Real Life Relationship Mapping Code](q1/sg6/real-life-relationship-mapping/mapping.py)
-    * [SG6: Real Life Relationship Mapping Class Diagram](q1/sg6/real-life-relationship-mapping/course_student_uml.png)
+Welcome to my Computer Science portfolio! This repository serves as a collection of my coding projects, assignments, and work throughout the school year.
 
+## Quarter 1
+* Activity 1: CT Exercise
+    - [Activity 1: CT Exercise Link](q1/ctskills/ctskillsPotassiumAnganganLuceroRoda.md)
+* Activity 3: Chinese Zodiac Sign
+    - [Activity 3: Chinese Zodiac Sign Link](q1/zodiac/zodiacPotassiumAngangan.md)
+    - [Activity 3: Chinese Zodiac Sign Source Code](q1/zodiac/zodiacPotassiumAngangan.py)
+* FA Activity: The RPG Hero
+    - [FA Activity: The RPG Hero Documentation Link](q1/theRPGHero/TheRPGHeroAngangan.md)
+    - [FA Activity: The RPG Hero Source Code Link](q1/theRPGHero/TheRPGHeroAngangan.py)
+    - [FA Activity: The RPG Hero Class Diagram Link](q1/theRPGHero/TheRPGHeroClassDiagram.png)
+* SG6: Real Life Relationship Mapping
+    - [SG6 Code Link](q1/sg6/real-life-relationship-mapping/mapping.py)
+    - [SG6 Class Diagram](q1/sg6/real-life-relationship-mapping/course_student_uml.png)
+
+## Quarter 2
+* Encapsulation
+   * Encapsulation: Activity 1
+       - [Activity 1 Documentation Link](q2/Encapsulation/Angangan_Activity1/Angangan_Activity1.md)
+   * Encapsulation: Activity 2
+       - [Activity 2 Source Code Link](q2/Encapsulation/Angangan_Activity2/rectangle.py)
+       - [Activity 2 Reflection Link](q2/Encapsulation/Angangan_Activity2/Reflection.md)
+   * Encapsulation: Activity 3
+       - [Activity 3 Source Code Link](q2/Encapsulation/Angangan_Activity3/bank_account.py)
