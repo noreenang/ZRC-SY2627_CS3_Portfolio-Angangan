@@ -1,8 +1,17 @@
-# Q2 Computer Science - Encapsulation Activities
 
-## Activity 1: Access Modifiers & Attribute Declarations
+**ACTIVITY 1** 
 
-| # | Situation / Class & Attribute | Access Level | Python Statement inside `__init__()` |
+—------------- 
+
+**Allotted Time:** 10 minutes 
+
+**Grading:** Non-graded, and submission is NOT required.
+
+**Instruction:** 
+For each situation below, decide whether the attribute should be public, protected, or private, then write the correct Python statement to declare the attribute inside the __init__() constructor method. Do these on your notebook. 
+
+
+| | Situation / Class & Attribute | Access Level | Python Statement inside `__init__()` |
 |---|---|---|---|
 | **1** | A `GameCharacter` class has a `username` that can be displayed and accessed by anyone. | **Public** | `self.username = username` |
 | **2** | A `BankAccount` class has a `balance` that should **NOT** be accessed directly outside the class. | **Private** | `self.__balance = balance` |
