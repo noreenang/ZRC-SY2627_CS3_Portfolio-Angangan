@@ -19,7 +19,7 @@ Welcome to my Computer Science portfolio! This repository serves as a collection
 ## Quarter 2
 * Encapsulation
    * Encapsulation: Activity 1
-       - [Activity 1 Documentation Link](q2/Encapsulation/Angangan_Activity1/Angangan_Activity1.md)
+       - [Activity 1 Documentation Link](q2/Encapsulation/Angangan_Activity1/Activity-1.md)
    * Encapsulation: Activity 2
        - [Activity 2 Source Code Link](q2/Encapsulation/Angangan_Activity2/rectangle.py)
        - [Activity 2 Reflection Link](q2/Encapsulation/Angangan_Activity2/Reflection.md)
