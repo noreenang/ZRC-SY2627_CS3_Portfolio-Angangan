@@ -25,3 +25,11 @@ Welcome to my Computer Science portfolio! This repository serves as a collection
        - [Activity 2 Reflection Link](q2/Encapsulation/Angangan_Activity2/Reflection.md)
    * Encapsulation: Activity 3
        - [Activity 3 Source Code Link](q2/Encapsulation/Angangan_Activity3/bank_account.py)
+* Inheritance
+   * Inheritance: Activity 1
+       - [Activity 1 Link](q2/Inheritance/Angangan_Activity1.md)
+   * Inheritance: Activity 2
+       - [Activity 2 Link](q2/Inheritance/Angangan_Activity2/Angangan_Activity2.md)
+   * Inheritance: FA 1
+       - [FA 1 Link](q2/Encapsulation/Angangan_FA1/Angangan_FA1.py)
+
