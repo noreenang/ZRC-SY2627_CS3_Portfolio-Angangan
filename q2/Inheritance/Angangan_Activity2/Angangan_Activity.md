@@ -18,7 +18,6 @@ each class. Show the correct inheritance relationship between classes.**
 3. Hierarchical Inheritance Diagram
 ![Hierarchical Inheritance Diagram](hierarchical_diagram.png)
 
----
 
 **2. Run the code examples in your IDE. Modify the code by adding getter and setter methods,
 changing object values, adding new objects, and adjusting method outputs. Observe how
@@ -75,7 +74,6 @@ obj.func2()
 obj2 = Child("New parent", "New child")
 obj2.func1()
 obj2.func2()
-```python
 
 ### 2. MultiLevel Inheritance (multilevel_inheritance.py)
 
