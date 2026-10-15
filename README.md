@@ -31,5 +31,5 @@ Welcome to my Computer Science portfolio! This repository serves as a collection
    * Inheritance: Activity 2
        - [Activity 2 Link](q2/Inheritance/Angangan_Activity2/Angangan_Activity2.md)
    * Inheritance: FA 1
-       - [FA 1 Link](q2/Encapsulation/Angangan_FA1/Angangan_FA1.py)
+       - [FA 1 Link](q2/Inheritance/Angangan_FA1.py)
 
