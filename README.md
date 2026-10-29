@@ -32,4 +32,11 @@ Welcome to my Computer Science portfolio! This repository serves as a collection
        - [Activity 2 Link](q2/Inheritance/Angangan_Activity2/Angangan_Activity2.md)
    * Inheritance: FA 1
        - [FA 1 Link](q2/Inheritance/Angangan_FA1.py)
+* Method Overriding
+   * Method Overriding: FA2
+       - [FA2 Link](q2/MethodOverriding-Activities/Q2-FA-2_Angangan_MethodOverriding.py)
+   * Method Overriding: LR1
+       - [Activity 1 Link](q2/MethodOverriding-Activities/LR_1_Angangan_MethodOverriding.py)
+ 
+
 
