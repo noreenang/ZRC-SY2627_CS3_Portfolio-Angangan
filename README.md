@@ -37,6 +37,14 @@ Welcome to my Computer Science portfolio! This repository serves as a collection
        - [FA2 Link](q2/MethodOverriding-Activities/Q2-FA-2_Angangan_MethodOverriding.py)
    * Method Overriding: LR1
        - [Activity 1 Link](q2/MethodOverriding-Activities/LR_1_Angangan_MethodOverriding.py)
- 
-
-
+ * Polymorphism
+   * Polymorphism: Activity 1
+       - [Activity 1 Link](q2/Polymorphism-Activities/Act1-Poly-Angangan.py)
+   * Polymorphism: Activity 2
+        - [Activity 2 Link](q2/Polymorphism-Activities/Act2-Poly-Angangan.py)
+    * Polymorphism: Activity 3
+        - [Activity 3 Link](q2/Polymorphism-Activities/Act3-Poly-Angangan.py)
+    * Polymorphism: Activity 4
+        - [Activity 4 Link](q2/Polymorphism-Activities/Act4-Poly-Angangan.py)
+    * Polymorphism: Activity 5
+        - [Activity 5 Link](q2/Polymorphism-Activities/Act5-Poly-Angangan.md)
