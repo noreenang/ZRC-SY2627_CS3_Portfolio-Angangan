@@ -48,3 +48,7 @@ Welcome to my Computer Science portfolio! This repository serves as a collection
         - [Activity 4 Link](q2/Polymorphism-Activities/Act4-Poly-Angangan.py)
     * Polymorphism: Activity 5
         - [Activity 5 Link](q2/Polymorphism-Activities/Act5-Poly-Angangan.md)
+    * Abstraction
+        * Abstraction: Activity 4
+            - [Activity 4 Source Code](q2/Abstraction-Activities/Act4_Abstraction_Angangan.py)
+                - [Activity 4 Documentation](q2/Abstraction-Activities/Act4_Abstraction_Documentation_Angangan.md)
